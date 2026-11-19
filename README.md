@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ☁️ KENZHEM
+# ☁️ Medet Kenzhebay
 
 ### CloudOps & Systems Engineer
 **Microsoft Azure | Infrastructure as Code | DevOps**
