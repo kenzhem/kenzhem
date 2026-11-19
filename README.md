@@ -4,7 +4,7 @@
 # ☁️ Medet Kenzhebay
 
 ### CloudOps & Systems Engineer
-**Microsoft Azure | Infrastructure as Code | DevOps**
+**Microsoft Azure | Infrastructure as Code | CloudOps**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CloudOps+%26+Systems+Engineer;Microsoft+Azure;Infrastructure+Automation;Terraform+%7C+PowerShell+%7C+DevOps;Building+Reliable+Cloud+Infrastructure" />
 
