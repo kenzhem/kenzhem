@@ -6,7 +6,7 @@
 ### CloudOps & Systems Engineer
 **Microsoft Azure | Infrastructure as Code | DevOps**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CloudOps+%26+Systems+Engineer;Microsoft+Azure+Specialist;Infrastructure+Automation;Terraform+%7C+PowerShell+%7C+DevOps;Building+Reliable+Cloud+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CloudOps+%26+Systems+Engineer;Microsoft+Azure;Infrastructure+Automation;Terraform+%7C+PowerShell+%7C+DevOps;Building+Reliable+Cloud+Infrastructure" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/medet-zh-4a1209190/)
 [![GitHub](https://img.shields.io/badge/GitHub-kenzhem-181717?style=for-the-badge&logo=github)](https://github.com/kenzhem)
